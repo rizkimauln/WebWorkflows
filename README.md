@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rizkimauln/rizkimauln/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rizkimauln/WebWorkflows/output/snake.svg" alt="Snake animation" />
 
 ###
 
